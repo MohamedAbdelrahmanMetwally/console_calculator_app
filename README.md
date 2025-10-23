@@ -79,6 +79,6 @@ Writing unit tests for calculator functions<br>
 <a href="https://github.com/MohamedAbdelrahmanMetwally/console_calculator_app/tree/main">📦 GitHub Repository</a>
 ## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License <a href="https://github.com/MohamedAbdelrahmanMetwally/console_calculator_app/blob/main/LICENSE">here</a>.
 
 
