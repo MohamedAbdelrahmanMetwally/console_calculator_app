@@ -1,4 +1,7 @@
 # Console Calculator App
+![Language](https://img.shields.io/badge/language-Dart-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 A simple console-based calculator application written in Dart.  
 This app allows you to perform basic arithmetic operations: addition, subtraction, multiplication and division (with zero-division handling) — all from the terminal.
